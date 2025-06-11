@@ -1,5 +1,5 @@
-# AcuRite 5-in-1 Receiver with Arduino Nano
-A few months ago when i started winter sailing in the Pacific , i came across a need 
+# AccuRite 5-in-1 Receiver with Arduino Nano
+A few months ago when i started winter sailing in the Pacific , i came across a need, 
 every time i radioed my wife on the shore , she had to run downstairs to look at our display and talk me over the radio the wind speed and direction on shore, we needed a seccond display , so after playing with Jens Jensen code ,so i added a i2c display. 
 It shows the Wind Speed in both KMph and Knots , so its easy to read to both landlubbers and sea people alike.
 
