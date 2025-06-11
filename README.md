@@ -1,5 +1,6 @@
 # AcuRite 5-in-1 Receiver with Arduino Nano
-
+Partially based on 
+ Jens Jensen work on the same subject
 This project is an Arduino Nano-based receiver for decoding signals from an AcuRite 5-in-1 weather station. It uses a low-cost OOK (On-Off Keying) 433 MHz receiver module and displays weather data on a 16x2 character LCD.
 
 ## Features
